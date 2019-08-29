@@ -24,7 +24,6 @@ public class Difference {
 		Difference diff = new Difference();
 		int dif = diff.calculateDifference(number);
 		System.out.println("Difference between sum of squares and square of sum is "+dif);
-		System.out.println("Hello");
 	}
 
 }
